@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: aquamarine;
 }
 
 main {
@@ -29,6 +30,6 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background-color: #c8d459;
+    background-color: #613897;
     color: #e08c8c;
 }
