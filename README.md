@@ -1,1 +1,2 @@
-# Exercicios_Js_fa-a_enquanto03
+# Lista-03-Do-While-
+Exercicios
